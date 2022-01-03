@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Eu sou o João Manoel 👋
+- 🔭 Em busca de uma vaga de React Native Jr.
+- 🌱 Estudando JavaScript, React Native, TypeScript, API e Git
+- ⚡ Fun fact: Tenho o sonho de me tornar cineasta um dia
+- 😄 Pronouns: ele/dele
+<div>
+<a href="https://github.com/joaomanoelpdelima">
 
-<!--
-**joaomanoelpdelima/joaomanoelpdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="180em" src="
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomanoelpdelima)](https://github.com/anuraghazra/github-readme-stats)"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180em" src="
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelpdelima)](https://github.com/anuraghazra/github-readme-stats)"/>
+</div>
