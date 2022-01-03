@@ -16,11 +16,11 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <a href=""<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img height="180em" align="right"src="https://thumbs.gfycat.com/SillyBlondDuckbillcat-max-1mb.gif">
+<img height="130em" align="right"src="https://thumbs.gfycat.com/SillyBlondDuckbillcat-max-1mb.gif">
 
 ## 
 <div/>
 
-![Snake animation](https://github.com/joaomanoelpdelima/joaomanoelpdelima/blob/output/github-cointribution-grid-snake.svg)   
+![Snake animation](https://github.com/joaomanoelpdelima/joaomanoelpdelima/blob/output/github-contribution-grid-snake.svg)
   
 
