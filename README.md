@@ -1,8 +1,8 @@
-## Olá! Eu sou o João Manoel 👋
-- 🔭 Em busca de uma vaga de React Native Jr.
-- 🌱 Estudando JavaScript, React Native e TypeScript
-- ⚡ Fun fact: Tenho o sonho de me tornar cineasta um dia
-- 😄 Pronouns: ele/dele
+## Hello there! I'm João Manoel 👋
+- 🔭 Looking for a job as a React Rative developer
+- 🌱 Studying JavaScript, React Native and TypeScript
+- ⚡ Fun fact: I dream of becoming a filmmaker one day
+- 😄 Pronouns: he/him
 
 <div>
 <a href="https://github.com/joaomanoelpdelima">
