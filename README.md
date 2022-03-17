@@ -1,6 +1,6 @@
 ## Hello there! I'm João Manoel 👋
-- 🔭 Looking for a job as a JavaScript/PHP developer
-- 🌱 Studying JavaScript, React Native and TypeScript
+- 🔭 Looking for a job as a PHP developer
+- 🌱 Studying PHP/MySQL
 - ⚡ Fun fact: I dream of becoming a filmmaker one day
 - 😄 Pronouns: he/him
 
@@ -15,7 +15,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
