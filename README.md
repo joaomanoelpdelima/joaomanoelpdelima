@@ -1,6 +1,6 @@
 ## Hello there! I'm João Manoel 👋
-- 🔭 Looking for a job as a PHP developer
-- 🌱 Studying PHP/MySQL
+- 🔭 Looking for a job as a UX/UI Designer or Video Editor!
+- 🌱 Studying UX/UI Design!
 - ⚡ Fun fact: I dream of becoming a filmmaker one day
 - 😄 Pronouns: he/him
 
